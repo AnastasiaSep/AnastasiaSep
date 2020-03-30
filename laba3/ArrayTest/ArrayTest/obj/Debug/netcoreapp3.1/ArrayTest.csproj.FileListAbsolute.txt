@@ -1,0 +1,11 @@
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.exe
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.deps.json
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.runtimeconfig.json
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.runtimeconfig.dev.json
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.dll
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\bin\Debug\netcoreapp3.1\ArrayTest.pdb
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.csprojAssemblyReference.cache
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.AssemblyInfoInputs.cache
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.AssemblyInfo.cs
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.dll
+C:\Users\southside sepre\Documents\laba3\ArrayTest\ArrayTest\obj\Debug\netcoreapp3.1\ArrayTest.pdb
