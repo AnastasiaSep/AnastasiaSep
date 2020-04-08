@@ -1,0 +1,22 @@
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.exe
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.deps.json
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.runtimeconfig.json
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.runtimeconfig.dev.json
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.dll
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.pdb
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.csprojAssemblyReference.cache
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.AssemblyInfoInputs.cache
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.AssemblyInfo.cs
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.dll
+C:\Users\Igor\Desktop\DSTU\ДГТУ\Третий курс\Второй семестр\Межплатформенное программирование\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.pdb
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.csprojAssemblyReference.cache
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.AssemblyInfoInputs.cache
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.AssemblyInfo.cs
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.dll
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\obj\Debug\netcoreapp3.1\Лаб2.pdb
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.exe
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.deps.json
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.runtimeconfig.json
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.runtimeconfig.dev.json
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.dll
+C:\Users\southside sepre\Desktop\2.0\2 семестр\Магомедов\Лабы\laba2\Лаб2\Лаб2\bin\Debug\netcoreapp3.1\Лаб2.pdb
