@@ -10,12 +10,25 @@ Hi there. Seeking an internship or junior data analyst position.
 * 🖥️  See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087 )
 * ✉️  You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or my telegram: [https://t.me/horosho\_budet](https://t.me/horosho_budet)
 
-### Skills
 
+
+🔭 **Currently Exploring:**  
+- Data Analysis with SQL and Python  
+- Visualization with Preset and SuperSet
+
+🤝 **Let's Connect:**  
+I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not crunching numbers, you can find me reading psychological books or learning new languages.
+
+
+### Skills
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 </p>
+  
+- 📊 **Excel / Google Sheets:** Pivot tables, Visualization, Cumulative aggregation  
+- 🛢️ **SQL (Postgres):** Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions  
+- 📈 **SuperSet, Preset:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
 
 
 ### Socials
