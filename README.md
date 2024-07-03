@@ -11,7 +11,7 @@ Hello there! I'm Anastasia, a Data Analyst seeking an internship or junior posit
 
 * 🌍 I'm based in Vietnam 
 * 🖥️ See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087)
-* ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or [on my telegram:](https://t.me/horosho_budet)
+* ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or on [my telegram](https://t.me/horosho_budet)
 
 
 🔭 **Currently Exploring:**  
@@ -34,20 +34,6 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
 - 📈 **SuperSet, Preset:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
 
 ![Data Analysis](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
-
-
-### Projects
-
-<table>
-  <tr>
-    <td><b style="font-size: 20px;">Левая колонка</b></td>
-    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="360" height="260"></td>
-  </tr>
-  <tr>
-    <td>Текст в левой колонке</td>
-    <td>Описание изображения или другой текст</td>
-  </tr>
-</table>
 
 
 ### Socials
