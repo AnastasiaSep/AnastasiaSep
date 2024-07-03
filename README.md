@@ -27,7 +27,7 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-  <a href="https://preset.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/preset.svg" width="36" height="36" alt="Preset" /></a>
+  <a href="https://preset.io/" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fpreset-io&psig=AOvVaw2-2ViY2zVWxokYLL6UGjoD&ust=1720106835937000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjMoLmXi4cDFQAAAAAdAAAAABAE" width="36" height="36" alt="Preset" /></a>
 </p>
 
 - 📊 **Excel / Google Sheets:** Pivot tables, Visualization, Cumulative aggregation  
