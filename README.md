@@ -2,14 +2,12 @@
 
 ## Data Analyst
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; padding-right: 20px;">
-        <p>Hello there! I'm Anastasia, a Data Analyst seeking an internship or junior position. Feel free to reach out!</p>
-    </div>
-    <div style="flex: 1; text-align: center;">
-        <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Anastasia's Image" width="360" height="360">
-    </div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="360" height="360">
 </div>
+
+Hello there! I'm Anastasia, a Data Analyst seeking an internship or junior position. Feel free to reach out!
+
 
 Hi there. Seeking an internship or junior data analyst position.
 
