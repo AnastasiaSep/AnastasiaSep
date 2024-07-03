@@ -32,7 +32,7 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
 - 🛢️ **SQL (Postgres):** Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions  
 - 📈 **SuperSet, Preset:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
 
- <div style="flex: 1; text-align: right;">
+ <div style="display: flex; justify-content: end;">
         <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="360" height="260">
     </div>
 
