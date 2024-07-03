@@ -40,12 +40,12 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
 
 <table>
   <tr>
-    <td><b style="font-size: 20px;">Project 1</b></td>
-    <td><b style="font-size: 20px;">Project 2</b></td>
+    <td><b style="font-size: 20px;">Левая колонка</b></td>
+    <td align="center"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="360" height="260"></td>
   </tr>
   <tr>
-    <td>Description of Project 1</td>
-    <td>Description of Project 2</td>
+    <td>Текст в левой колонке</td>
+    <td>Описание изображения или другой текст</td>
   </tr>
 </table>
 
