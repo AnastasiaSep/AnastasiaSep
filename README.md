@@ -5,9 +5,8 @@
 # Hi 👋 My name is Anastasia
 ## Data Analyst
 
-Hello there! I'm Anastasia, a Data Analyst seeking an internship or junior position. Feel free to reach out!
-
 ![Animated GIF](https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
+Hi there! I'm Anastasia, a Data Analyst seeking an internship or junior position. Feel free to reach out!
 
 * 🌍 I'm based in Vietnam 
 * 🖥️ See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087)
