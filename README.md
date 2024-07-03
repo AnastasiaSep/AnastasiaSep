@@ -32,7 +32,17 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
 - 🛢️ **SQL (Postgres):** Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions  
 - 📈 **SuperSet, Preset:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
 
-  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="360" height="260" align="right">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="360" height="260" >
+  <table border="0">
+ <tr>
+    <td><b style="font-size:30px">PHIEN</b></td>
+    <td><b style="font-size:30px">Nastya 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AnastasiaSep" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>  
