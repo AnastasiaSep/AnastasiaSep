@@ -33,7 +33,7 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
 - 📈 **SuperSet, Preset:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
 
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="360" height="260" >
-  <table border="0">
+  <table border="0" cellspacing="0" cellpadding="0" width="100%">
  <tr>
     <td><b style="font-size:30px">PHIEN</b></td>
     <td><b style="font-size:30px">Nastya 2</b></td>
