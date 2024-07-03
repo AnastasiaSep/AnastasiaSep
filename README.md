@@ -13,7 +13,6 @@ Hello there! I'm Anastasia, a Data Analyst seeking an internship or junior posit
 * 🖥️ See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087)
 * ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or on my telegram: [https://t.me/horosho_budet](https://t.me/horosho_budet)
 
----
 
 🔭 **Currently Exploring:**  
 - Data Analysis with SQL and Python  
@@ -22,7 +21,6 @@ Hello there! I'm Anastasia, a Data Analyst seeking an internship or junior posit
 🤝 **Let's Connect:**  
 I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not crunching numbers, you can find me reading psychological books or learning new languages.
 
----
 
 ### Skills
 
@@ -37,7 +35,6 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
 
 ![Data Analysis](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
----
 
 ### Projects
 
@@ -52,7 +49,6 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
   </tr>
 </table>
 
----
 
 ### Socials
 
