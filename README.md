@@ -11,7 +11,7 @@ Hello there! I'm Anastasia, a Data Analyst seeking an internship or junior posit
 
 * 🌍 I'm based in Vietnam 
 * 🖥️ See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087)
-* ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or on my telegram: [https://t.me/horosho_budet](https://t.me/horosho_budet)
+* ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or [on my telegram:](https://t.me/horosho_budet)
 
 
 🔭 **Currently Exploring:**  
