@@ -43,4 +43,8 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
   <a href="https://www.github.com/AnastasiaSep" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
   </a>
+  <a href="https://t.me/horosho_budet" target="_blank" rel="noreferrer">
+    <img src="https://c0.klipartz.com/pngpicture/82/892/gratis-png-iphone-telegrama-iconos-de-computadora-android-telegrama.png" width="32" height="32" />
+  </a>
+
 </p>
