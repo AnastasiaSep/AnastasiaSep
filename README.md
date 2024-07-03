@@ -1,4 +1,5 @@
 # Hi 👋 My name is Anastasia
+![Header](https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif)
 
 ## Data Analyst
 
@@ -12,7 +13,6 @@
 </div>
 
 
-Hello there! I'm Anastasia, a Data Analyst seeking an internship or junior position. Feel free to reach out!
 
 
 Hi there. Seeking an internship or junior data analyst position.
