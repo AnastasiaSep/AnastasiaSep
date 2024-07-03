@@ -9,7 +9,7 @@
 
 * 🌍  I'm based in Vietnam
 * 🖥️  See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087 )
-* ✉️  You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or my telegram: [https://t.me/horosho\_budet](https://t.me/horosho_budet)
+* ✉️  You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or my telegram: [https://t.me/horosho\_budet](https://t.me/horosho_budet) ![Animated GIF](https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
 
 ![Animated GIF](https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif)
 
