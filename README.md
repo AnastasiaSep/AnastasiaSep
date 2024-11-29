@@ -19,13 +19,15 @@ Hi there! I'm Anastasia, a Data Analyst seeking an internship or junior position
 - Visualization with Preset and SuperSet
 
 🤝 **Let's Connect:**  
-I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not crunching numbers, you can find me reading psychological books or learning new languages.
+I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not busy, you can find me reading psychological books or learning new languages.
 
+[![My Skills](https://skillicons.dev/icons?i=anaconda,git,github,matlab,postgres,py,vscode,)](https://skillicons.dev)
 
 ### Skills
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+  <a href="https://www.mysql.com/" 
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
   <a href="https://preset.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45908173?s=200&v=4" width="36" height="36" alt="Preset" /></a>
 </p>
