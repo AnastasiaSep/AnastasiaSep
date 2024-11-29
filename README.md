@@ -13,10 +13,14 @@ Hi there! I'm Anastasia, a Data Analyst seeking an internship or junior position
 * 🖥️ See my portfolio at [My CV](http://cv.hexlet.io/resumes/4087)
 * ✉️ You can contact me at [nastyadelonge554@gmail.com](mailto:nastyadelonge554@gmail.com) or on [my telegram](https://t.me/horosho_budet)
 
+👨‍🎓 **Education:**
+
+Data Analytics, Hexlet (2024)
+Information Systems and Technologies, Bachelor, Rostov Technical State University (2017-2021)
 
 🔭 **Currently Exploring:**  
-- Data Analysis with SQL and Python  
-- Visualization with Preset and SuperSet
+- Data Analysis with SQL, Google Sheets, Python  
+- Visualization with Apache SuperSet, Python
 
 🤝 **Let's Connect:**  
 I'm actively seeking remote internship opportunities in data analysis. Open to collaborating on exciting data projects. When I'm not busy, you can find me reading psychological books or learning new languages.
@@ -29,10 +33,11 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
   <a href="https://preset.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45908173?s=200&v=4" width="36" height="36" alt="Preset"</a>
 </p>
 
-- 📊 **Excel / Google Sheets:** Pivot tables, Visualization, Cumulative aggregation  
+- 📊 **Google Sheets:** Pivot tables, Visualization, Cumulative aggregation  
 - 🛢️ **SQL (Postgres):** Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions  
-- 📈 **SuperSet, Preset:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
-
+- 📈 **SuperSet:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
+- **DBeaver:** Database connection, SQL querries
+- 🐍 **Python:** Pandas, Numpy, matplotlib, plotly, seaborn
 <div align="left">
   <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="300" height="200">
 </div>
