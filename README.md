@@ -15,8 +15,8 @@ Hi there! I'm Anastasia, a Data Analyst seeking an internship or junior position
 
 👨‍🎓 **Education:**
 
-Data Analytics, Hexlet (2024)
-Information Systems and Technologies, Bachelor, Rostov Technical State University (2017-2021)
+* Data Analytics, Hexlet (2024)
+* Information Systems and Technologies, Bachelor, Rostov Technical State University (2017-2021)
 
 🔭 **Currently Exploring:**  
 - Data Analysis with SQL, Google Sheets, Python  
@@ -31,8 +31,9 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
 
 <p align="left">
   <a href="https://preset.io/" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/45908173?s=200&v=4" width="36" height="36" alt="Preset"</a>
+  <a href="" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F6692094&psig=AOvVaw1BFzWzDkDvi6FaK1RTxjL4&ust=1732964236752000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj9rJj_sIGKAxVvma8BHYlGPIgQjRx6BAgAEBk
+" width="36" height="36" alt="DBeaver"</a>
 </p>
-
 - 📊 **Google Sheets:** Pivot tables, Visualization, Cumulative aggregation  
 - 🛢️ **SQL (Postgres):** Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions  
 - 📈 **SuperSet:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
