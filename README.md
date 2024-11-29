@@ -34,6 +34,7 @@ I'm actively seeking remote internship opportunities in data analysis. Open to c
   <a href="" target="_blank" rel="noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F6692094&psig=AOvVaw1BFzWzDkDvi6FaK1RTxjL4&ust=1732964236752000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj9rJj_sIGKAxVvma8BHYlGPIgQjRx6BAgAEBk
 " width="36" height="36" alt="DBeaver"</a>
 </p>
+    
 - 📊 **Google Sheets:** Pivot tables, Visualization, Cumulative aggregation  
 - 🛢️ **SQL (Postgres):** Complex database queries, Data filtering and grouping operations, Aggregation for visualization, Complex nested subqueries, Window functions  
 - 📈 **SuperSet:** Creation of various types of graphs and charts, Dashboard creation, Setting up interactive filters  
